@@ -57,4 +57,9 @@ This is a simplified backend system for a Twitter-like application built using N
     Fetch User Timeline
         GET /api/users/:userId/timeline
             Headers:
-                Authorization: 44eec28c3781134186a3e823a1d131c3f6b3a64847a20bd9803929b8f9a4955b4301d5205a573af1f0ec47c40f7df71da6366f006283be83e0cbc5eac305f6dd                
+                Authorization: 44eec28c3781134186a3e823a1d131c3f6b3a64847a20bd9803929b8f9a4955b4301d5205a573af1f0ec47c40f7df71da6366f006283be83e0cbc5eac305f6dd   
+#Contact
+Vanshi Singh
+vanshisinghdev@gmail.com
+7379133393
+#
