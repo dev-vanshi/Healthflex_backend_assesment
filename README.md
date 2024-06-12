@@ -15,7 +15,7 @@ This is a simplified backend system for a Twitter-like application built using N
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/23415/healthflex_assignment.git
+   git clone https://github.com/dev-vanshi/Healthflex_backend_assesment.git
    cd twitter-backend
 
 ### install dependencies
@@ -23,8 +23,8 @@ This is a simplified backend system for a Twitter-like application built using N
 
 ### Enviroment variables
     PORT=3000
-    MONGODB_URI=mongodb+srv://sukritkumar2002:iqGSstet0FYp8We9@cluster0.ckhua6d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-    JWT_SECRET=44eec28c3781134186a3e823a1d131c3f6b3a64847a20bd9803929b8f9a4955b4301d5205a573af1f0ec47c40f7df71da6366f006283be83e0cbc5eac305f6dd
+    MONGODB_URI=mongodb+srv://vanshisinghdev:K8EXKwpsWaV0ZA8E@cluster0.yznd6nr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    JWT_SECRET=d91b2d4503aeb2b6628424104a2ba7a50940ca7e06736d6fd65f5c7f7c94bf2a
 
 ### Run server
     npm run dev
